@@ -21,7 +21,7 @@ if (rollDice) {
     
     console.log("For information purposes", randomNumgen);
  
-//Program runs if user inputs "y" then clicks enter. Will generally equally weighted number output.  Number 6 has two-tenths less likey to occur than other numbers
+//Program runs if user inputs "y" then clicks enter. Will generally equally weighted number output.  Number 6 has two-tenths more likey to occur than other numbers
 
 }
 if (randomNumgen >= 0 && randomNumgen <= .16) {
